@@ -1,7 +1,7 @@
 <!-- Banner o imagen -->
 <img src="https://www.wsupercars.com/wallpapers-super-ultrawide/Formula-1/Red-Bull-Racing/2023-Formula1-Red-Bull-Racing-RB19-001-1440sw.jpg" alt="F1 Banner" style="width:100%; border-radius: 10px;" />
 
-# 🏎️ Luis Nafate | Software Engineer in Training & F1 Enthusiast
+# 🏎️ Luis Nafate | Software Engineer
 
 ¡Hola! Soy Luis Nafate, estudiante de **Ingeniería en Tecnologías de la Información e inovacion digital**. Me apasiona la **programación**, la **innovación tecnológica** y  **max verstappen**, especialmente  Aquí encontrarás proyectos donde combino tecnología con velocidad.
 
