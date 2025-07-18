@@ -1,9 +1,9 @@
 <!-- Banner o imagen -->
-<img src="https://i.imgur.com/Mw2VJqp.jpeg" alt="F1 Banner" style="width:100%; border-radius: 10px;" />
+<img src="https://www.wsupercars.com/wallpapers-super-ultrawide/Formula-1/Red-Bull-Racing/2023-Formula1-Red-Bull-Racing-RB19-001-1440sw.jpg" alt="F1 Banner" style="width:100%; border-radius: 10px;" />
 
 # 🏎️ Luis Nafate | Software Engineer in Training & F1 Enthusiast
 
-¡Hola! Soy Luis Nafate, estudiante de **Ingeniería en Tecnologías de la Información**. Me apasiona la **programación**, la **innovación tecnológica** y el mundo de la **Fórmula 1**, especialmente **Checo Pérez** 🇲🇽. Aquí encontrarás proyectos donde combino tecnología con velocidad 🧠⚡.
+¡Hola! Soy Luis Nafate, estudiante de **Ingeniería en Tecnologías de la Información e inovacion digital**. Me apasiona la **programación**, la **innovación tecnológica** y  **max verstappen**, especialmente  Aquí encontrarás proyectos donde combino tecnología con velocidad.
 
 ---
 
@@ -11,8 +11,8 @@
 
 ```bash
 💻 Lenguajes:        Python · Java · JavaScript · C · HTML/CSS
-🔧 Herramientas:     Git · GitHub · Postman · Figma · Javalin · Insomnia
-🧠 Enfoque:          Desarrollo Web · Análisis de Datos · API REST · UI/UX
+🔧 Herramientas:     Git · GitHub · Figma · Insomnia
+🧠 Enfoque:          Desarrollo Web · API REST · UI/UX
 ```
 
 ---
@@ -21,9 +21,8 @@
 
 | Proyecto | Descripción | Tecnologías |
 |---------|-------------|-------------|
-| **WheelyApp** | Sistema de transporte urbano estilo Uber 🚕 | Java · Javalin · PostgreSQL |
+| **WheelyApp** | Sistema de transporte urbano | Java · Javalin · InnoDB |
 | **EstadísticaApp** | Cálculos de pruebas Z y t para estudiantes 📊 | Python · Tkinter · CustomTkinter |
-| **Landing Page F1** | Página tributo a Checo Pérez con diseño responsive 🎨 | HTML · CSS · Figma |
 
 ---
 
@@ -31,8 +30,6 @@
 
 - [ ] App F1 con datos de pilotos y rankings en vivo usando una API
 - [ ] Web de torneos deportivos universitarios
-- [ ] Bot de Telegram con curiosidades de la Fórmula 1
-
 ---
 
 ## 📈 GitHub Stats
@@ -46,15 +43,14 @@
 
 ## 🏆 Frase favorita
 
-> “No me importa si gano, lo único que quiero es correr lo más rápido que pueda.” – Ayrton Senna
+> “Pongan enjambre.” – Yo
 
 ---
 
 ## 📫 Conectemos
 
-- 🎯 [LinkedIn](https://linkedin.com/in/tuusuario)
-- ✉️ Email: `tucorreo@ejemplo.com`
-- 🏁 Instagram F1 Fan: [@f1_con_luis](https://instagram.com/f1_con_luis)
+- ✉️ Email: `luisnafate51@gmail.com`
+- 🏁 Instagram: [@f1_con_luis](https://instagram.com/f1_con_luis)
 
 ---
 
