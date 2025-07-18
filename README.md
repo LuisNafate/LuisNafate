@@ -49,7 +49,7 @@
 ## 📫 Conectemos
 
 - ✉️ Email: `luisnafate51@gmail.com`
-- 🏁 Instagram: [@f1_con_luis](https://instagram.com/f1_con_luis)
+- 🏁 Instagram: [@lu_nafa51](https://www.instagram.com/lu_nafa51/profilecard/?igsh=amRyNWh4bjVkYjVy)
 
 ---
 
