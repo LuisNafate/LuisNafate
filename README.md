@@ -16,6 +16,14 @@
 ```
 
 ---
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=luisnafate&show_icons=true&theme=tokyonight" alt="GitHub stats" height="165">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisnafate&layout=compact&theme=tokyonight" alt="Top Langs">
+</p>
+
+---
 
 ## 🏁 Últimos proyectos destacados
 
@@ -30,15 +38,6 @@
 
 - [ ] App F1 con datos de pilotos y rankings en vivo usando una API
 - [ ] Web de torneos deportivos universitarios
----
-
-## 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=luisnafate&show_icons=true&theme=tokyonight" alt="GitHub stats" height="165">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=luisnafate&layout=compact&theme=tokyonight" alt="Top Langs">
-</p>
-
 ---
 
 ## 🏆 Frase favorita
