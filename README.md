@@ -3,7 +3,7 @@
 
 # 🏎️ Luis Nafate | Software Engineer
 
-¡Hola! Soy Luis Nafate, estudiante de **Ingeniería en Tecnologías de la Información e inovacion digital**. Me apasiona la **programación**, la **innovación tecnológica** y  **Max Verstappen**, especialmente  Aquí encontrarás proyectos donde combino tecnología con mi creatividad.
+¡Hola! Soy Luis Nafate, estudiante de **Ingeniería en Tecnologías de la Información e inovacion digital**. Me apasiona la **programación**, la **innovación tecnológica** y , especialmente  Aquí encontrarás proyectos donde combino tecnología con mi creatividad.
 
 ---
 
@@ -35,8 +35,6 @@
 ---
 
 ## 🔧 En desarrollo
-
-- [ ] App F1 con datos de pilotos y rankings en vivo usando una API
 - [ ] Web de torneos deportivos universitarios
 ---
 
