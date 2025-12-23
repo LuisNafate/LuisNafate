@@ -27,20 +27,10 @@ Soy Luis Nafate, estudiante de **Ingeniería en Tecnologías de la Información 
 
 ## 🏁 Últimos proyectos destacados
 
-| Proyecto | Descripción | Tecnologías |
-|---------|-------------|-------------|
-| **WheelyApp** | Sistema de transporte urbano | Java · Javalin · InnoDB |
-| **EstadísticaApp** | Cálculos de pruebas Z y t para estudiantes 📊 | Python · Tkinter · CustomTkinter |
+| Proyecto | Descripción |
+|---------|-------------|
+| **WheelyApp** | Sistema de transporte urbano
 
----
-
-## 🔧 En desarrollo
-- [ ] Web de torneos deportivos universitarios
----
-
-## 🏆 Frase favorita
-
-> “Pongan enjambre.” – Yo
 
 ---
 
