@@ -1,5 +1,5 @@
 <!-- Banner o imagen -->
-<img src="https://www.wsupercars.com/wallpapers-super-ultrawide/Formula-1/Red-Bull-Racing/2023-Formula1-Red-Bull-Racing-RB19-001-1440sw.jpg" alt="F1 Banner" style="width:100%; border-radius: 10px;" />
+<img src="https://www.wsupercars.com/wallpapers-super-ultrawide/Formula-1/Red-Bull-Racing/2023-Formula1-Red-Bull-Racing-RB19-001-1440sw.jpg" alt="F1 Banner" style="width:100%; heigth: 100%; border-radius: 10px;" />
 
 # 🏎️ Luis Nafate | Software Engineer
 
