@@ -3,7 +3,7 @@
 
 # 🏎️ Luis Nafate | Software Engineer
 
-¡Hola! Soy Luis Nafate, estudiante de **Ingeniería en Tecnologías de la Información e inovacion digital**. Me apasiona la **programación**, la **innovación tecnológica** y , especialmente  Aquí encontrarás proyectos donde combino tecnología con mi creatividad.
+Soy Luis Nafate, estudiante de **Ingeniería en Tecnologías de la Información e inovacion digital**. Me apasiona la **programación**, la **innovación tecnológica** y , especialmente  Aquí encontrarás proyectos mios y en equipo.
 
 ---
 
