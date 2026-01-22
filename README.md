@@ -3,17 +3,7 @@
 
 # 🏎️ Luis Nafate | Software Engineer
 
-Soy Luis Nafate, estudiante de **Ingeniería en Tecnologías de la Información e inovacion digital**. Me apasiona la **programación**, la **innovación tecnológica** y , especialmente  Aquí encontrarás proyectos mios y en equipo.
-
----
-
-## 🚀 Habilidades Técnicas
-
-```bash
-💻 Lenguajes:        Python · Java · JavaScript · C · HTML/CSS
-🔧 Herramientas:     Git · GitHub · Figma · Insomnia
-🧠 Enfoque:          Desarrollo Web · API REST · UI/UX
-```
+Soy Luis Nafate, estudiante de **Ingeniería en Tecnologías de la Información e inovacion digital**. Aquí encontrarás proyectos mios y en equipo.
 
 ---
 ## 📈 GitHub Stats
