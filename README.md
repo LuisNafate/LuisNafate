@@ -1,12 +1,12 @@
 <!-- Banner o imagen -->
 <img src="https://www.wsupercars.com/wallpapers-super-ultrawide/Formula-1/Red-Bull-Racing/2023-Formula1-Red-Bull-Racing-RB19-001-1440sw.jpg" alt="F1 Banner" style="width:100%; heigth: 100%; border-radius: 10px;" />
 
-# 🏎️ Luis Nafate | Software Engineer
+# Luis Nafate | Software Engineer
 
 Soy Luis Nafate, estudiante de **Ingeniería en Tecnologías de la Información e inovacion digital**. Aquí encontrarás proyectos mios y en equipo.
 
 ---
-## 📈 GitHub Stats
+## GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=luisnafate&show_icons=true&theme=tokyonight" alt="GitHub stats" height="165">
@@ -15,11 +15,11 @@ Soy Luis Nafate, estudiante de **Ingeniería en Tecnologías de la Información 
 
 ---
 
-## 🏁 Últimos proyectos destacados
+## Últimos proyectos destacados
 
 | Proyecto | Descripción |
 |---------|-------------|
-| **WheelyApp** | Sistema de transporte urbano
+| **WheelyApp** | Web de transporte urbano
 
 
 ---
