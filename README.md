@@ -26,8 +26,8 @@ Soy Luis Nafate, estudiante de **Ingeniería en Tecnologías de la Información 
 
 ## 📫 Conectemos
 
-- ✉️ Email: `luisnafate51@gmail.com`
-- 🏁 Instagram: [@lu_nafa51](https://www.instagram.com/lu_nafa51/profilecard/?igsh=amRyNWh4bjVkYjVy)
+- Email: `luisnafate51@gmail.com`
+- Instagram: [@lu_nafa51](https://www.instagram.com/lu_nafa51/profilecard/?igsh=amRyNWh4bjVkYjVy)
 
 ---
 
