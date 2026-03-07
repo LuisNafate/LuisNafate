@@ -19,7 +19,8 @@ Soy Luis Nafate, estudiante de **Ingeniería en Tecnologías de la Información 
 
 | Proyecto | Descripción |
 |---------|-------------|
-| **WheelyApp** | Web de transporte urbano
+| **Wheely** | Web de transporte urbano
+| **ReSet** | Aplicacion de control de recaidas adicciones
 
 
 ---
