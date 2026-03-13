@@ -8,7 +8,22 @@ Soy Luis Nafate, estudiante de **Ingeniería en Tecnologías de la Información 
 ---
 ## GitHub Stats
 
-![LuisNafate's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisNafate&show_icons=true&theme=radical&hide_border=true)
+<div align="center">
+
+<!-- Stats generales: muestra rank, commits, PRs, issues y stars -->
+<img src="https://github-readme-stats.vercel.app/api?username=LuisNafate&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&show=reviews,discussions_started,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+
+<br/>
+
+<!-- Streak: lo más impactante visualmente para demostrar consistencia -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisNafate&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+
+<br/>
+
+<!-- Top Languages: muestra tu stack real (TypeScript, JS, etc.) -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisNafate&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css&card_width=445" alt="Top Languages" />
+
+</div>
 
 
 ---
