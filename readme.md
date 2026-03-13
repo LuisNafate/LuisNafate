@@ -11,7 +11,7 @@ Soy Luis Nafate, estudiante de **Ingeniería en Tecnologías de la Información 
 <div align="center">
 
 <!-- Stats generales: muestra rank, commits, PRs, issues y stars -->
-<img src="https://github-readme-stats.vercel.app/api?username=LuisNafate&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&rank_icon=github&show=reviews,discussions_started,prs_merged,prs_merged_percentage" alt="GitHub Stats" />
+![LuisNafate's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisNafate&show_icons=true&theme=radical&hide_border=true)
 
 <br/>
 
