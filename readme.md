@@ -8,10 +8,6 @@ Soy Luis Nafate, estudiante de **Ingeniería en Tecnologías de la Información 
 ---
 ## GitHub Stats
 
-<div>
-
-</div>
-
 <div align="center" style="display: flex; justify-content: center; gap: 16px; flex-wrap: wrap;">
 
   ![LuisNafate's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisNafate&show_icons=true&theme=radical&hide_border=true)
