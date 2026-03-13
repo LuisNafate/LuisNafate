@@ -10,11 +10,13 @@ Soy Luis Nafate, estudiante de **Ingeniería en Tecnologías de la Información 
 
 <div>
 
-<!-- Stats generales: muestra rank, commits, PRs, issues y stars -->
-![LuisNafate's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisNafate&show_icons=true&theme=radical&hide_border=true)
+</div>
 
-<!-- Streak: lo más impactante visualmente para demostrar consistencia -->
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisNafate&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
+<div align="center" style="display: flex; justify-content: center; gap: 16px; flex-wrap: wrap;">
+
+  ![LuisNafate's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisNafate&show_icons=true&theme=radical&hide_border=true)
+
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisNafate&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 
 </div>
 
