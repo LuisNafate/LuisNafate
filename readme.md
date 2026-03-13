@@ -16,11 +16,6 @@ Soy Luis Nafate, estudiante de **Ingeniería en Tecnologías de la Información 
 <!-- Streak: lo más impactante visualmente para demostrar consistencia -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisNafate&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
 
-<br/>
-
-<!-- Top Languages: muestra tu stack real (TypeScript, JS, etc.) -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=LuisNafate&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&hide=html,css&card_width=445" alt="Top Languages" />
-
 </div>
 
 
