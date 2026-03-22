@@ -1,8 +1,6 @@
 # Luis Nafate | Software Engineer
 
-<img src="https://www.wsupercars.com/wallpapers-super-ultrawide/Formula-1/Red-Bull-Racing/2023-Formula1-Red-Bull-Racing-RB19-001-1440sw.jpg" alt="F1 Banner" style="width:100%; border-radius: 10px;" />
-
-<p align="center">
+<p>
   Estudiante de Ingeniería en Tecnologías de la Información e Innovación Digital · 
   Desarrollador Frontend en formación · Buscando Estadía Profesional
 </p>
