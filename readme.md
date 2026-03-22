@@ -1,4 +1,4 @@
-# Luis Nafate | Software Engineer
+# Luis Nafate | Frontend Developer
 
 <p>
   Estudiante de Ingeniería en Tecnologías de la Información e Innovación Digital · 
