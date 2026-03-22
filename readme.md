@@ -57,8 +57,6 @@ En este perfil encontrarás proyectos personales y en equipo donde aplico estas 
 | **Wheely** | `Next.js` · `React` · `TailwindCSS` | Web de transporte urbano para visualizar rutas y paradas, con interfaz responsiva pensada para usuarios móviles y de escritorio. |
 | **ReSet** | `React`/`Next.js` · `TypeScript` · `CSS` | Aplicación para registrar recaídas en adicciones y hacer seguimiento del progreso con una UI sencilla y directa. |
 
-> En cada proyecto cuido que el código sea legible, modular y fácil de escalar, usando componentes reutilizables, Named imports y ramas de Git para nuevas features.
-
 ---
 
 ## 📫 Conectemos
