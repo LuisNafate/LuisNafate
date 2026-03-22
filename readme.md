@@ -12,8 +12,6 @@ Soy Luis Nafate, estudiante de **Ingeniería en Tecnologías de la Información 
 
   ![LuisNafate's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisNafate&show_icons=true&theme=radical&hide_border=true)
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=LuisNafate&theme=tokyonight&hide_border=true&date_format=M%20j%5B%2C%20Y%5D" alt="GitHub Streak" />
-
 </div>
 
 
