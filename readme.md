@@ -5,10 +5,7 @@
   Desarrollador Frontend en formación · Buscando Estadía Profesional
 
 ---
-</p>
-<p align="center">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="www.linkedin.com/in/luis-nafate"/>
-</p>
+
 
 ## Sobre mí
 
@@ -16,6 +13,11 @@ Soy **Luis Nafate**, desarrollador frontend en progreso con foco en crear interf
 Trabajo principalmente con React / Next.js, TailwindCSS y consumo de APIs REST, cuidando la experiencia de usuario y la organización del código.
 
 En este perfil encontrarás proyectos personales y en equipo donde aplico estas tecnologías en problemas reales.
+
+</p>
+<p>
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="www.linkedin.com/in/luis-nafate"/>
+</p>
 
 ---
 
