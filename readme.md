@@ -80,4 +80,9 @@ En este perfil encontrarás proyectos personales y en equipo donde aplico estas 
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExNWNlc2I5em54a3hhMzB4NHpxYmlrajRmbzhmYzk1ZTl6ZGpycGd1aCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/3o7aD4CxCohSTe5vzO/giphy.gif" height="200"/>
   <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" height="200"/>
 </p>
+<p align="center">
+  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" height="200"/>
+  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" height="200"/>
+</p>
+
 
