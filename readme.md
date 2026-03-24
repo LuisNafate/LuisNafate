@@ -48,13 +48,15 @@ En este perfil encontrarás proyectos personales y en equipo donde aplico estas 
 
 ---
 
-## GitHub Stats
+## GitHub Stats y certificados
 
 <div align="center">
 
   ![LuisNafate's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisNafate&show_icons=true&theme=radical&hide_border=true)
 
 </div>
+
+<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2c34b750-184d-4c7f-8110-a9f57853bb7a" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 ---
 
