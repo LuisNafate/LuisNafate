@@ -1,5 +1,12 @@
 # Luis Nafate | Frontend Developer
 
+<a href="https://www.linkedin.com/in/luis-nafate" target="_blank" rel="noopener noreferrer">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn - Luis Nafate"
+  />
+</a>
+
 <p>
   Estudiante de Ingeniería en Tecnologías de la Información e Innovación Digital · 
   Desarrollador Frontend en formación · Buscando Estadía Profesional
@@ -14,12 +21,7 @@ Trabajo principalmente con React / Next.js, TailwindCSS y consumo de APIs REST, 
 
 En este perfil encontrarás proyectos personales y en equipo donde aplico estas tecnologías en problemas reales.
 
-<a href="https://www.linkedin.com/in/luis-nafate" target="_blank" rel="noopener noreferrer">
-  <img
-    src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
-    alt="LinkedIn - Luis Nafate"
-  />
-</a>
+
 
 ---
 
