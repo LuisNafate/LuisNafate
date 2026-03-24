@@ -56,7 +56,6 @@ En este perfil encontrarás proyectos personales y en equipo donde aplico estas 
 
 </div>
 
-<div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="2c34b750-184d-4c7f-8110-a9f57853bb7a" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
 
 ---
 
