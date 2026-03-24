@@ -81,7 +81,7 @@ En este perfil encontrarás proyectos personales y en equipo donde aplico estas 
   <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" height="200"/>
 </p>
 <p align="center">
-  <img src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif](https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" height="200"/>
+  <img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" height="200"/>
 </p>
 
 
