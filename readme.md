@@ -3,12 +3,12 @@
 <p>
   Estudiante de Ingeniería en Tecnologías de la Información e Innovación Digital · 
   Desarrollador Frontend en formación · Buscando Estadía Profesional
+
+---
 </p>
 <p align="center">
 <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="www.linkedin.com/in/luis-nafate"/>
 </p>
----
-
 
 ## Sobre mí
 
