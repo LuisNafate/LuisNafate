@@ -6,33 +6,6 @@
 </p>
 
 ---
-<div class="lava-banner">
-  <svg viewBox="0 0 400 100" xmlns="http://www.w3.org/2000/svg">
-    <defs>
-      <filter id="goo">
-        <feGaussianBlur in="SourceGraphic" stdDeviation="10" result="blur"/>
-        <feColorMatrix in="blur" values="1 0 0 0 0  0 1 0 0 0  0 0 1 0 0  0 0 0 18 -7" result="goo"/>
-        <feBlend in="SourceGraphic" in2="goo"/>
-      </filter>
-    </defs>
-    <rect width="400" height="100" fill="#002200"/>
-    <circle cx="100" cy="80" r="25" fill="#00ff73" opacity="0.8">
-      <animate attributeName="cy" values="80;40;80" dur="8s" repeatCount="indefinite"/>
-      <animateTransform attributeName="transform" type="scale" values="1;1.3;1" dur="8s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="250" cy="70" r="35" fill="#32cd32" opacity="0.6">
-      <animate attributeName="cy" values="70;20;70" dur="12s" repeatCount="indefinite"/>
-      <animateTransform attributeName="transform" type="scale" values="1;1.2;1" dur="12s" repeatCount="indefinite"/>
-    </circle>
-    <circle cx="320" cy="60" r="20" fill="#90ee90" opacity="0.7">
-      <animate attributeName="cy" values="60;30;60" dur="10s" repeatCount="indefinite"/>
-      <animateTransform attributeName="transform" type="translate" values="0,0;20,-20;0,0" dur="10s" repeatCount="indefinite"/>
-    </circle>
-  </svg>
-  <style>
-    .lava-banner { filter: url(#goo); height: 100px; width: 400px; border-radius: 10px; overflow: hidden; }
-  </style>
-</div>
 
 
 ## Sobre mí
