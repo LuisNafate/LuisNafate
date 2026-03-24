@@ -14,10 +14,12 @@ Trabajo principalmente con React / Next.js, TailwindCSS y consumo de APIs REST, 
 
 En este perfil encontrarás proyectos personales y en equipo donde aplico estas tecnologías en problemas reales.
 
-</p>
-<p>
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="www.linkedin.com/in/luis-nafate"/>
-</p>
+<a href="https://www.linkedin.com/in/luis-nafate" target="_blank" rel="noopener noreferrer">
+  <img
+    src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
+    alt="LinkedIn - Luis Nafate"
+  />
+</a>
 
 ---
 
