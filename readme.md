@@ -1,5 +1,7 @@
 # Luis Nafate | Frontend Developer
-
+<p align="center">
+  <img src="https://github.com/LuisNafate/LuisNafate/blob/main/Luis-Nafate-banner.jpeg?raw=true" width="100%">
+</p>
 
 <a href="https://www.linkedin.com/in/luis-nafate" target="_blank" rel="noopener noreferrer">
   <img
