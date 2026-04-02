@@ -3,6 +3,7 @@
   <img src="https://github.com/LuisNafate/LuisNafate/blob/main/Luis-Nafate-banner.jpeg?raw=true" width="100%">
 </p>
 
+## Contacto
 <a href="https://www.linkedin.com/in/luis-nafate" target="_blank" rel="noopener noreferrer">
   <img
     src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
