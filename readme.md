@@ -3,13 +3,17 @@
   <img src="https://github.com/LuisNafate/LuisNafate/blob/main/Luis-Nafate-banner.jpeg?raw=true" width="100%">
 </p>
 
-## Contacto
+## Contacto + Proyecto destacado
 <a href="https://www.linkedin.com/in/luis-nafate" target="_blank" rel="noopener noreferrer">
   <img
     src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"
     alt="LinkedIn - Luis Nafate"
   />
 </a>
+
+  <a href="https://reset-app.tech" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Visitar_Reset_App-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visitar Reset App" />
+  </a>
 
 <p>
   Estudiante de Ingeniería en Tecnologías de la Información e Innovación Digital · 
