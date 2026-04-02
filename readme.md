@@ -23,9 +23,6 @@
 Soy **Luis Nafate**, desarrollador frontend en progreso con foco en crear interfaces modernas, accesibles y de alto rendimiento.  
 Trabajo principalmente con React / Next.js, TailwindCSS y consumo de APIs REST, cuidando la experiencia de usuario y la organización del código.
 
-En este perfil encontrarás proyectos personales y en equipo donde aplico estas tecnologías en problemas reales.
-
-
 
 ---
 
