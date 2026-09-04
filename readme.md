@@ -12,7 +12,7 @@
 </a>
 
   <a href="LossLesso" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Visitar_Reset_App-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visitar App LoosLesso" />
+    <img src="https://img.shields.io/badge/Visitar_LossLesso-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visitar App LoosLesso" />
   </a>
 
 <p>
