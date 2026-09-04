@@ -11,8 +11,8 @@
   />
 </a>
 
-  <a href="https://reset-app.tech" target="_blank" rel="noopener noreferrer">
-    <img src="https://img.shields.io/badge/Visitar_Reset_App-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visitar Reset App" />
+  <a href="LossLesso" target="_blank" rel="noopener noreferrer">
+    <img src="https://img.shields.io/badge/Visitar_Reset_App-0A66C2?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Visitar App LoosLesso" />
   </a>
 
 <p>
